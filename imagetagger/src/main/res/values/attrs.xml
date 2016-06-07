@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="imageTagger">
+        <attr name="tagSize" format="dimension"/>
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="tagColor" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="colorFilled" format="boolean"/>
+        <attr name="taggable" format="boolean"/>
+
+    </declare-styleable>
+</resources>

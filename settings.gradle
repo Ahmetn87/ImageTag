@@ -1,0 +1,3 @@
+include ':app', ':imagetagger'
+//include 'imagetagger'
+//project (':imagetagger').projectDir = new File(settingsDir,'../ImageTagger/imagetagger')
