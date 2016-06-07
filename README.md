@@ -1,6 +1,6 @@
 # ImageTag
 #### Tag images as you like
-![alt text](https://github.com/Ahmetn87/ImageTag/blob/master/assets/f.gif)
+<img src="https://github.com/Ahmetn87/ImageTag/blob/master/assets/f.gif" alt="Drawing" style="width: 270px;"/>
 
 ```xml
 <akilus.com.imagetagger.ImageTagger
