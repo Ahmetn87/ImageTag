@@ -21,7 +21,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4013a90c-059e-456b-891a-277dccd3360c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ImageTagging.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,8 +52,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/akilus/com/imagetagging/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71910113">
-              <caret line="74" column="22" selection-start-line="30" selection-start-column="8" selection-end-line="74" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.7022472">
+              <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
               <folding>
                 <element signature="e#2191#2378#0" expanded="true" />
                 <element signature="e#2377#2378#0" expanded="true" />
@@ -3423,8 +3423,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/akilus/com/imagetagging/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71910113">
-          <caret line="74" column="22" selection-start-line="30" selection-start-column="8" selection-end-line="74" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.7022472">
+          <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
           <folding>
             <element signature="e#2191#2378#0" expanded="true" />
             <element signature="e#2377#2378#0" expanded="true" />
