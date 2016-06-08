@@ -70,6 +70,7 @@ tagger = (ImageTagger)findViewById(R.id.imgTag);
         updateLabel();
 ```
 
+##License
 
 ```
 Copyright 2016 Ahmet Nazim Macit
